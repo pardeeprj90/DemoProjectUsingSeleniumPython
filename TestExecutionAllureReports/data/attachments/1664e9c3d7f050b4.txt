@@ -1,0 +1,21 @@
+[32mINFO    [0m WDM:logger.py:16 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:16 Current google-chrome version is 109.0.5414
+[32mINFO    [0m WDM:logger.py:16 Get LATEST chromedriver version for 109.0.5414 google-chrome
+[32mINFO    [0m WDM:logger.py:16 Driver [C:\Users\Pradeep\.wdm\drivers\chromedriver\win32\109.0.5414.74\chromedriver.exe] found in cache
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:34 Execution of Test case Add Course started
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:37 login class object created successfully
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:40 User ineuron@ineuron.ai logged in successfully
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:43 AddNewCourse class object created successfully
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:46 User clicked on ManageCourse module successfully
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:49 User clicked on Add New Course Button successfully
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:52 User uploaded image file Successfully
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:55 User enters Test Course in Course Name input Field successfully
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:58 User enters Test Course Description in Course Description input Field successfully
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:61 User enters P in Instructor input Field successfully
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:64 User enters 10000 in Course Description input Field successfully
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:68 User selected 2023-02-11 in Start Date Field successfully
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:71 User selected 2023-04-11 in End Date Field successfully
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:74 User selected DevOps Course successfully
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:77 User clicked Saved successfully
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:80 Course Test Course addition validated successfully
+[32mINFO    [0m Utilities.Logs:test_addCourse.py:82  Test Case Add Course executed Successfully

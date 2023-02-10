@@ -1,0 +1,14 @@
+[32mINFO    [0m WDM:logger.py:16 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:16 Current google-chrome version is 109.0.5414
+[32mINFO    [0m WDM:logger.py:16 Get LATEST chromedriver version for 109.0.5414 google-chrome
+[32mINFO    [0m WDM:logger.py:16 Driver [C:\Users\Pradeep\.wdm\drivers\chromedriver\win32\109.0.5414.74\chromedriver.exe] found in cache
+[32mINFO    [0m Utilities.Logs:test_signUpPage.py:32 Execution of Test case User Sign Up started
+[32mINFO    [0m Utilities.Logs:test_signUpPage.py:35 SignUp class object created successfully
+[32mINFO    [0m Utilities.Logs:test_signUpPage.py:38 SignUp link clicked successfully
+[32mINFO    [0m Utilities.Logs:test_signUpPage.py:41 User entered Pardeep Kumar in Name input field
+[32mINFO    [0m Utilities.Logs:test_signUpPage.py:44 User entered test6@test.com in Email input field
+[32mINFO    [0m Utilities.Logs:test_signUpPage.py:47 User entered Test!123 in Password input field
+[32mINFO    [0m Utilities.Logs:test_signUpPage.py:50 User Chosed DevOps,Testing in Interest successfully
+[32mINFO    [0m Utilities.Logs:test_signUpPage.py:53 User Chosed Male in Gender successfully
+[32mINFO    [0m Utilities.Logs:test_signUpPage.py:56 User selected Himachal Pradesh state successfully
+[32mINFO    [0m Utilities.Logs:test_signUpPage.py:59 User clicked sign up button successfully

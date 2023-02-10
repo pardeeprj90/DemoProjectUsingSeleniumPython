@@ -1,0 +1,64 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "GGN_PARDEEP_NA_ITDEV",
+    "children" : [ {
+      "name" : "10168-MainThread",
+      "children" : [ {
+        "name" : "test_createAccount[testData0]",
+        "uid" : "61756e413c114948",
+        "parentUid" : "566f61d48cef8c2fceb0549f512456e9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676045707650,
+          "stop" : 1676045718140,
+          "duration" : 10490
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['ineuron@ineuron.ai', 'ineuron', \"Create Account | Recruit CRM'\"]" ]
+      }, {
+        "name" : "test_createAccount[AddCourseTestData0-UserInfo0]",
+        "uid" : "f65fa761bac467bd",
+        "parentUid" : "566f61d48cef8c2fceb0549f512456e9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676045726429,
+          "stop" : 1676045735427,
+          "duration" : 8998
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['Test Course', 'Test Course Description', 'P', 10000, '2023-02-11', '2023-04-11', 'DevOps']", "['ineuron@ineuron.ai', 'ineuron', \"Create Account | Recruit CRM'\"]" ]
+      }, {
+        "name" : "test_signUp[testData0]",
+        "uid" : "e98314fbd1494481",
+        "parentUid" : "566f61d48cef8c2fceb0549f512456e9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1676045684158,
+          "stop" : 1676045700195,
+          "duration" : 16037
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['Pardeep Kumar', 'test7@test.com', 'Test!123', 'DevOps,Testing', 'Male', 'Himachal Pradesh']" ]
+      } ],
+      "uid" : "566f61d48cef8c2fceb0549f512456e9"
+    } ],
+    "uid" : "f0ceb9645c74dbb68b1a78852ea8f7ad"
+  } ]
+}

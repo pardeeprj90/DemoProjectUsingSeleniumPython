@@ -1,0 +1,31 @@
+[ {
+  "uid" : "61756e413c114948",
+  "name" : "test_createAccount[testData0]",
+  "time" : {
+    "start" : 1676045707650,
+    "stop" : 1676045718140,
+    "duration" : 10490
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e98314fbd1494481",
+  "name" : "test_signUp[testData0]",
+  "time" : {
+    "start" : 1676045684158,
+    "stop" : 1676045700195,
+    "duration" : 16037
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f65fa761bac467bd",
+  "name" : "test_createAccount[AddCourseTestData0-UserInfo0]",
+  "time" : {
+    "start" : 1676045726429,
+    "stop" : 1676045735427,
+    "duration" : 8998
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

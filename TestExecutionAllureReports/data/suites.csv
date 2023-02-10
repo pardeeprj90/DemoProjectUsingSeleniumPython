@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 10 21:45:07 IST 2023","Fri Feb 10 21:45:18 IST 2023","10490","TestCases","test_Login","TestValidateCreateAccount","","","test_createAccount[testData0]",""
+"passed","Fri Feb 10 21:45:26 IST 2023","Fri Feb 10 21:45:35 IST 2023","8998","TestCases","test_addCourse","TestValidateAddCourse","","","test_createAccount[AddCourseTestData0-UserInfo0]",""
+"broken","Fri Feb 10 21:44:44 IST 2023","Fri Feb 10 21:45:00 IST 2023","16037","TestCases","test_signUpPage","TestValidateSignUp","","","test_signUp[testData0]",""

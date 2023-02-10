@@ -1,0 +1,42 @@
+{
+  "SignUpPage":
+  {
+    "signUpLink" : "//a[@class='subLink' and contains(text(),'Signup')]",
+    "signUpPageHeader" : "//h2[contains(text(),'Sign Up')]",
+    "name": "//input[@id='name']",
+    "email": "//input[@id='email']",
+    "password": "//input[@id='password']",
+    "interest": "//div[@class='interests-div']/div/label",
+    "state": "//select[@id='state']",
+    "signUpBtn": "//button[@type='submit' and @class='submit-btn']"
+  },
+  "LoginPage":
+  {
+    "email": "//input[@id='email1']",
+    "password": "//input[@id='password1']",
+    "signInBtn": "//button[@class='submit-btn']",
+    "signOutBtn": "//button[contains(.,'Sign out')]"
+  },
+  "AddCourse":
+  {
+    "manageBtn": "//div[@class='nav-menu-item-manage']/span[contains(text(),'Manage')]",
+    "manageCourses": "//span[contains(text(),'Manage Courses')]",
+    "addNewCourseBtn": "//button[contains(text(),'Add New Course')]",
+    "chooseFileBtn": "//input[@id='thumbnail']",
+    "courseName": "//input[@id='name']",
+    "description": "//textarea[@id='description']",
+    "instructor_input": "//input[@id='instructorNameId']",
+    "instructor_list" : "//div[@class='intructorsList']/p[1]",
+
+    "price": "//input[@id='price']",
+    "startDate":"//input[@name='startDate']",
+    "endDate": "//input[@name='endDate']",
+    "selectCategory": "//div[contains(text(),'Select Category')]",
+    "saveBtn": "//button[contains(text(),'Save')]",
+    "s": "//button[@class='menu-item' and contains(text(),'DevOps')]"
+
+
+
+
+  }
+}

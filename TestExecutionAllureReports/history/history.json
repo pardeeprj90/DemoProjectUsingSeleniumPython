@@ -1,0 +1,60 @@
+{
+  "f5e870496dc2758e44527120f66832f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e98314fbd1494481",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: disconnected: received Inspector.detached event\n  (failed to check if window was closed: disconnected: Unable to receive message from renderer)\n  (Session info: chrome=109.0.5414.121)\nStacktrace:\nBacktrace:\n\t(No symbol) [0x00DE6643]\n\t(No symbol) [0x00D7BE21]\n\t(No symbol) [0x00C7DA9D]\n\t(No symbol) [0x00C7061E]\n\t(No symbol) [0x00C6FFB1]\n\t(No symbol) [0x00C6F3BC]\n\t(No symbol) [0x00C6F2D8]\n\t(No symbol) [0x00C6DC68]\n\t(No symbol) [0x00C6E647]\n\t(No symbol) [0x00C87958]\n\t(No symbol) [0x00C80477]\n\t(No symbol) [0x00C7FFAF]\n\t(No symbol) [0x00C80842]\n\t(No symbol) [0x00C80B30]\n\t(No symbol) [0x00CB0FAC]\n\t(No symbol) [0x00CB147B]\n\t(No symbol) [0x00CE8DC2]\n\t(No symbol) [0x00CCFDC4]\n\t(No symbol) [0x00CE6B09]\n\t(No symbol) [0x00CCFB76]\n\t(No symbol) [0x00CA49C1]\n\t(No symbol) [0x00CA5E5D]\n\tGetHandleVerifier [0x0105A142+2497106]\n\tGetHandleVerifier [0x010885D3+2686691]\n\tGetHandleVerifier [0x0108BB9C+2700460]\n\tGetHandleVerifier [0x00E93B10+635936]\n\t(No symbol) [0x00D84A1F]\n\t(No symbol) [0x00D8A418]\n\t(No symbol) [0x00D8A505]\n\t(No symbol) [0x00D9508B]\n\tBaseThreadInitThunk [0x75D700F9+25]\n\tRtlGetAppContainerNamedObjectPath [0x77997BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77997B8E+238]",
+      "time" : {
+        "start" : 1676045684158,
+        "stop" : 1676045700195,
+        "duration" : 16037
+      }
+    } ]
+  },
+  "fb5e0e3bea3ecb8728c13b3be32c1ea7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "61756e413c114948",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676045707650,
+        "stop" : 1676045718140,
+        "duration" : 10490
+      }
+    } ]
+  },
+  "9b1659b114fc71cbe39039f8401fc144" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f65fa761bac467bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1676045726429,
+        "stop" : 1676045735427,
+        "duration" : 8998
+      }
+    } ]
+  }
+}

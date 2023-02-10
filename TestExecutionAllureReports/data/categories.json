@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.WebDriverException: Message: disconnected: received Inspector.detached event\n  (failed to check if window was closed: disconnected: Unable to receive message from renderer)\n  (Session info: chrome=109.0.5414.121)\nStacktrace:\nBacktrace:\n\t(No symbol) [0x00DE6643]\n\t(No symbol) [0x00D7BE21]\n\t(No symbol) [0x00C7DA9D]\n\t(No symbol) [0x00C7061E]\n\t(No symbol) [0x00C6FFB1]\n\t(No symbol) [0x00C6F3BC]\n\t(No symbol) [0x00C6F2D8]\n\t(No symbol) [0x00C6DC68]\n\t(No symbol) [0x00C6E647]\n\t(No symbol) [0x00C87958]\n\t(No symbol) [0x00C80477]\n\t(No symbol) [0x00C7FFAF]\n\t(No symbol) [0x00C80842]\n\t(No symbol) [0x00C80B30]\n\t(No symbol) [0x00CB0FAC]\n\t(No symbol) [0x00CB147B]\n\t(No symbol) [0x00CE8DC2]\n\t(No symbol) [0x00CCFDC4]\n\t(No symbol) [0x00CE6B09]\n\t(No symbol) [0x00CCFB76]\n\t(No symbol) [0x00CA49C1]\n\t(No symbol) [0x00CA5E5D]\n\tGetHandleVerifier [0x0105A142+2497106]\n\tGetHandleVerifier [0x010885D3+2686691]\n\tGetHandleVerifier [0x0108BB9C+2700460]\n\tGetHandleVerifier [0x00E93B10+635936]\n\t(No symbol) [0x00D84A1F]\n\t(No symbol) [0x00D8A418]\n\t(No symbol) [0x00D8A505]\n\t(No symbol) [0x00D9508B]\n\tBaseThreadInitThunk [0x75D700F9+25]\n\tRtlGetAppContainerNamedObjectPath [0x77997BBE+286]\n\tRtlGetAppContainerNamedObjectPath [0x77997B8E+238]",
+      "children" : [ {
+        "name" : "test_signUp[testData0]",
+        "uid" : "e98314fbd1494481",
+        "parentUid" : "1612a3f73adae6b3ab2e7863e1d68994",
+        "status" : "broken",
+        "time" : {
+          "start" : 1676045684158,
+          "stop" : 1676045700195,
+          "duration" : 16037
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['Pardeep Kumar', 'test7@test.com', 'Test!123', 'DevOps,Testing', 'Male', 'Himachal Pradesh']" ]
+      } ],
+      "uid" : "1612a3f73adae6b3ab2e7863e1d68994"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

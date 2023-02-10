@@ -1,0 +1,72 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "TestCases",
+    "children" : [ {
+      "name" : "test_signUpPage",
+      "children" : [ {
+        "name" : "test_signUp[testData0]",
+        "uid" : "e98314fbd1494481",
+        "parentUid" : "cf283334479847ee5014818c4c46d12c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1676045684158,
+          "stop" : 1676045700195,
+          "duration" : 16037
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['Pardeep Kumar', 'test7@test.com', 'Test!123', 'DevOps,Testing', 'Male', 'Himachal Pradesh']" ]
+      } ],
+      "uid" : "cf283334479847ee5014818c4c46d12c"
+    }, {
+      "name" : "test_Login",
+      "children" : [ {
+        "name" : "test_createAccount[testData0]",
+        "uid" : "61756e413c114948",
+        "parentUid" : "0f5c3a09bea38ff3b3427550c6b0d6e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676045707650,
+          "stop" : 1676045718140,
+          "duration" : 10490
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['ineuron@ineuron.ai', 'ineuron', \"Create Account | Recruit CRM'\"]" ]
+      } ],
+      "uid" : "0f5c3a09bea38ff3b3427550c6b0d6e4"
+    }, {
+      "name" : "test_addCourse",
+      "children" : [ {
+        "name" : "test_createAccount[AddCourseTestData0-UserInfo0]",
+        "uid" : "f65fa761bac467bd",
+        "parentUid" : "2c5475fad38b52ecc6240abe7086064c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1676045726429,
+          "stop" : 1676045735427,
+          "duration" : 8998
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "['Test Course', 'Test Course Description', 'P', 10000, '2023-02-11', '2023-04-11', 'DevOps']", "['ineuron@ineuron.ai', 'ineuron', \"Create Account | Recruit CRM'\"]" ]
+      } ],
+      "uid" : "2c5475fad38b52ecc6240abe7086064c"
+    } ],
+    "uid" : "1dd5dae00c58193b69825e57e00d160e"
+  } ]
+}

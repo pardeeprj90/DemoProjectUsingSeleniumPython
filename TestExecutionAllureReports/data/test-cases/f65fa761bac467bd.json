@@ -1,0 +1,118 @@
+{
+  "uid" : "f65fa761bac467bd",
+  "name" : "test_createAccount[AddCourseTestData0-UserInfo0]",
+  "fullName" : "TestCases.test_addCourse.TestValidateAddCourse#test_createAccount",
+  "historyId" : "9b1659b114fc71cbe39039f8401fc144",
+  "time" : {
+    "start" : 1676045726429,
+    "stop" : 1676045735427,
+    "duration" : 8998
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1676045720571,
+      "stop" : 1676045726428,
+      "duration" : 5857
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1664e9c3d7f050b4",
+      "name" : "log",
+      "source" : "1664e9c3d7f050b4.txt",
+      "type" : "text/plain",
+      "size" : 2159
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "setup::0",
+    "time" : {
+      "start" : 1676045735432,
+      "stop" : 1676045737686,
+      "duration" : 2254
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('setup')"
+  }, {
+    "name" : "tag",
+    "value" : "order(2)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "TestCases"
+  }, {
+    "name" : "suite",
+    "value" : "test_addCourse"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestValidateAddCourse"
+  }, {
+    "name" : "host",
+    "value" : "GGN_PARDEEP_NA_ITDEV"
+  }, {
+    "name" : "thread",
+    "value" : "10168-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "TestCases.test_addCourse"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "AddCourseTestData",
+    "value" : "['Test Course', 'Test Course Description', 'P', 10000, '2023-02-11', '2023-04-11', 'DevOps']"
+  }, {
+    "name" : "UserInfo",
+    "value" : "['ineuron@ineuron.ai', 'ineuron', \"Create Account | Recruit CRM'\"]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "order(2)", "@pytest.mark.usefixtures('setup')" ]
+  },
+  "source" : "f65fa761bac467bd.json",
+  "parameterValues" : [ "['Test Course', 'Test Course Description', 'P', 10000, '2023-02-11', '2023-04-11', 'DevOps']", "['ineuron@ineuron.ai', 'ineuron', \"Create Account | Recruit CRM'\"]" ]
+}

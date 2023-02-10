@@ -1,0 +1,438 @@
+2023-02-10 21:13:38,222 - Utilities.Logs - INFO - Execution of Test case User Sign Up started
+2023-02-10 21:13:38,223 - Utilities.Logs - INFO - SignUp class object created successfully
+2023-02-10 21:13:38,444 - Utilities.Logs - INFO - SignUp link clicked successfully
+2023-02-10 21:13:39,626 - Utilities.Logs - INFO - User entered Pardeep Kumar in Name input field
+2023-02-10 21:13:39,781 - Utilities.Logs - INFO - User entered test6@test.com in Email input field
+2023-02-10 21:13:39,893 - Utilities.Logs - INFO - User entered Test!123 in Password input field
+2023-02-10 21:13:40,056 - Utilities.Logs - INFO - User Chosed Pardeep Kumar in Interest successfully
+2023-02-10 21:13:40,098 - Utilities.Logs - INFO - User Chosed Pardeep Kumar in Gender successfully
+2023-02-10 21:13:40,224 - Utilities.Logs - INFO - User selected Himachal Pradesh state successfully
+2023-02-10 21:13:40,257 - Utilities.Logs - INFO - User clicked sign up button successfully
+2023-02-10 21:13:51,820 - Utilities.Logs - INFO - Execution of Test case User Login started
+2023-02-10 21:13:51,820 - Utilities.Logs - INFO - Execution of Test case User Login started
+2023-02-10 21:13:53,503 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:13:53,503 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:13:53,503 - Utilities.Logs - INFO - Execution of Test case User Login Successfuly completed
+2023-02-10 21:13:53,503 - Utilities.Logs - INFO - Execution of Test case User Login Successfuly completed
+2023-02-10 21:14:01,840 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:14:01,840 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:14:01,840 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:14:01,842 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:14:01,842 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:14:01,842 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:14:03,492 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:14:03,492 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:14:03,492 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:14:03,493 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:14:03,493 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:14:03,493 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:14:05,476 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:14:05,476 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:14:05,476 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:14:05,641 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:14:05,641 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:14:05,641 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:14:05,765 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:14:05,765 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:14:05,765 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:14:06,059 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:14:06,059 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:14:06,059 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:14:06,351 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:14:06,351 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:14:06,351 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:14:06,585 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:14:06,585 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:14:06,585 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:14:06,781 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:14:06,781 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:14:06,781 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:14:07,291 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:14:07,291 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:14:07,291 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:14:07,747 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:14:07,747 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:14:07,747 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:14:07,977 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:14:07,977 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:14:07,977 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:14:08,081 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:14:08,081 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:14:08,081 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:14:08,105 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:14:08,105 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:14:08,105 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:14:08,105 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:14:08,105 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:14:08,105 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:17:57,684 - Utilities.Logs - INFO - Execution of Test case User Sign Up started
+2023-02-10 21:17:57,684 - Utilities.Logs - INFO - SignUp class object created successfully
+2023-02-10 21:17:57,817 - Utilities.Logs - INFO - SignUp link clicked successfully
+2023-02-10 21:17:59,136 - Utilities.Logs - INFO - User entered Pardeep Kumar in Name input field
+2023-02-10 21:17:59,280 - Utilities.Logs - INFO - User entered test6@test.com in Email input field
+2023-02-10 21:17:59,411 - Utilities.Logs - INFO - User entered Test!123 in Password input field
+2023-02-10 21:17:59,565 - Utilities.Logs - INFO - User Chosed DevOps,Testing in Interest successfully
+2023-02-10 21:17:59,626 - Utilities.Logs - INFO - User Chosed Male in Gender successfully
+2023-02-10 21:17:59,794 - Utilities.Logs - INFO - User selected Himachal Pradesh state successfully
+2023-02-10 21:17:59,842 - Utilities.Logs - INFO - User clicked sign up button successfully
+2023-02-10 21:18:17,179 - Utilities.Logs - INFO - Execution of Test case User Login started
+2023-02-10 21:18:17,179 - Utilities.Logs - INFO - Execution of Test case User Login started
+2023-02-10 21:18:19,062 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:18:19,062 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:18:19,063 - Utilities.Logs - INFO - Execution of Test case User Login Successfuly completed
+2023-02-10 21:18:19,063 - Utilities.Logs - INFO - Execution of Test case User Login Successfuly completed
+2023-02-10 21:18:29,094 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:18:29,094 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:18:29,094 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:18:29,094 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:18:29,094 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:18:29,094 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:18:31,518 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:18:31,518 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:18:31,518 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:18:31,519 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:18:31,519 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:18:31,519 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:18:34,494 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:18:34,494 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:18:34,494 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:18:34,628 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:18:34,628 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:18:34,628 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:18:34,773 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:18:34,773 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:18:34,773 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:18:35,071 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:18:35,071 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:18:35,071 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:18:35,379 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:18:35,379 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:18:35,379 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:18:35,589 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:18:35,589 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:18:35,589 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:18:35,740 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:18:35,740 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:18:35,740 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:18:36,300 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:18:36,300 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:18:36,300 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:18:36,752 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:18:36,752 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:18:36,752 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:18:36,951 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:18:36,951 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:18:36,951 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:18:37,044 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:18:37,044 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:18:37,044 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:18:37,060 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:18:37,060 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:18:37,060 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:18:37,061 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:18:37,061 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:18:37,061 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:20:14,205 - Utilities.Logs - INFO - Execution of Test case User Sign Up started
+2023-02-10 21:20:14,206 - Utilities.Logs - INFO - SignUp class object created successfully
+2023-02-10 21:20:14,325 - Utilities.Logs - INFO - SignUp link clicked successfully
+2023-02-10 21:20:15,855 - Utilities.Logs - INFO - User entered Pardeep Kumar in Name input field
+2023-02-10 21:20:16,065 - Utilities.Logs - INFO - User entered test6@test.com in Email input field
+2023-02-10 21:20:16,193 - Utilities.Logs - INFO - User entered Test!123 in Password input field
+2023-02-10 21:20:16,400 - Utilities.Logs - INFO - User Chosed DevOps,Testing in Interest successfully
+2023-02-10 21:20:16,447 - Utilities.Logs - INFO - User Chosed Male in Gender successfully
+2023-02-10 21:20:16,622 - Utilities.Logs - INFO - User selected Himachal Pradesh state successfully
+2023-02-10 21:20:16,659 - Utilities.Logs - INFO - User clicked sign up button successfully
+2023-02-10 21:20:31,044 - Utilities.Logs - INFO - Execution of Test case User Login started
+2023-02-10 21:20:31,044 - Utilities.Logs - INFO - Execution of Test case User Login started
+2023-02-10 21:20:33,412 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:20:33,412 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:20:33,412 - Utilities.Logs - INFO - Execution of Test case User Login Successfuly completed
+2023-02-10 21:20:33,412 - Utilities.Logs - INFO - Execution of Test case User Login Successfuly completed
+2023-02-10 21:20:42,407 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:20:42,407 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:20:42,407 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:20:42,407 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:20:42,407 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:20:42,407 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:20:44,175 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:20:44,175 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:20:44,175 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:20:44,175 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:20:44,175 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:20:44,175 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:20:46,024 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:20:46,024 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:20:46,024 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:20:46,148 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:20:46,148 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:20:46,148 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:20:46,240 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:20:46,240 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:20:46,240 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:20:46,502 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:20:46,502 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:20:46,502 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:20:46,753 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:20:46,753 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:20:46,753 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:20:46,971 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:20:46,971 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:20:46,971 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:20:47,125 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:20:47,125 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:20:47,125 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:20:47,645 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:20:47,645 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:20:47,645 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:20:48,030 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:20:48,030 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:20:48,030 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:20:48,224 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:20:48,224 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:20:48,224 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:20:48,296 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:20:48,296 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:20:48,296 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:20:48,317 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:20:48,317 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:20:48,317 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:20:48,318 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:20:48,318 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:20:48,318 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:23:01,853 - Utilities.Logs - INFO - Execution of Test case User Sign Up started
+2023-02-10 21:23:01,854 - Utilities.Logs - INFO - SignUp class object created successfully
+2023-02-10 21:23:01,936 - Utilities.Logs - INFO - SignUp link clicked successfully
+2023-02-10 21:23:03,145 - Utilities.Logs - INFO - User entered Pardeep Kumar in Name input field
+2023-02-10 21:23:03,248 - Utilities.Logs - INFO - User entered test6@test.com in Email input field
+2023-02-10 21:23:03,335 - Utilities.Logs - INFO - User entered Test!123 in Password input field
+2023-02-10 21:23:03,442 - Utilities.Logs - INFO - User Chosed DevOps,Testing in Interest successfully
+2023-02-10 21:23:03,465 - Utilities.Logs - INFO - User Chosed Male in Gender successfully
+2023-02-10 21:23:03,545 - Utilities.Logs - INFO - User selected Himachal Pradesh state successfully
+2023-02-10 21:23:03,568 - Utilities.Logs - INFO - User clicked sign up button successfully
+2023-02-10 21:23:11,679 - Utilities.Logs - INFO - Execution of Test case User Login started
+2023-02-10 21:23:11,679 - Utilities.Logs - INFO - Execution of Test case User Login started
+2023-02-10 21:23:13,428 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:23:13,428 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:23:13,428 - Utilities.Logs - INFO - Execution of Test case User Login Successfuly completed
+2023-02-10 21:23:13,428 - Utilities.Logs - INFO - Execution of Test case User Login Successfuly completed
+2023-02-10 21:23:21,461 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:23:21,461 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:23:21,461 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:23:21,461 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:23:21,461 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:23:21,461 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:23:23,037 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:23:23,037 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:23:23,037 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:23:23,037 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:23:23,037 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:23:23,037 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:23:24,501 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:23:24,501 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:23:24,501 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:23:24,617 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:23:24,617 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:23:24,617 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:23:24,741 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:23:24,741 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:23:24,741 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:23:24,969 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:23:24,969 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:23:24,969 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:23:25,535 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:23:25,535 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:23:25,535 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:23:25,807 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:23:25,807 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:23:25,807 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:23:25,953 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:23:25,953 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:23:25,953 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:23:26,437 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:23:26,437 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:23:26,437 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:23:26,799 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:23:26,799 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:23:26,799 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:23:26,986 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:23:26,986 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:23:26,986 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:23:27,066 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:23:27,066 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:23:27,066 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:23:27,083 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:23:27,083 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:23:27,083 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:23:27,083 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:23:27,083 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:23:27,083 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:24:00,963 - Utilities.Logs - INFO - Execution of Test case User Sign Up started
+2023-02-10 21:24:00,964 - Utilities.Logs - INFO - SignUp class object created successfully
+2023-02-10 21:24:01,050 - Utilities.Logs - INFO - SignUp link clicked successfully
+2023-02-10 21:24:02,400 - Utilities.Logs - INFO - User entered Pardeep Kumar in Name input field
+2023-02-10 21:24:02,508 - Utilities.Logs - INFO - User entered test6@test.com in Email input field
+2023-02-10 21:24:02,598 - Utilities.Logs - INFO - User entered Test!123 in Password input field
+2023-02-10 21:24:02,701 - Utilities.Logs - INFO - User Chosed DevOps,Testing in Interest successfully
+2023-02-10 21:24:02,725 - Utilities.Logs - INFO - User Chosed Male in Gender successfully
+2023-02-10 21:24:02,811 - Utilities.Logs - INFO - User selected Himachal Pradesh state successfully
+2023-02-10 21:24:02,834 - Utilities.Logs - INFO - User clicked sign up button successfully
+2023-02-10 21:24:16,376 - Utilities.Logs - INFO - Execution of Test case User Login started
+2023-02-10 21:24:16,376 - Utilities.Logs - INFO - Execution of Test case User Login started
+2023-02-10 21:24:17,937 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:24:17,937 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:24:17,938 - Utilities.Logs - INFO - Execution of Test case User Login Successfuly completed
+2023-02-10 21:24:17,938 - Utilities.Logs - INFO - Execution of Test case User Login Successfuly completed
+2023-02-10 21:24:26,815 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:24:26,815 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:24:26,815 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:24:26,816 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:24:26,816 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:24:26,816 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:24:28,312 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:24:28,312 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:24:28,312 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:24:28,312 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:24:28,312 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:24:28,312 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:24:29,926 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:24:29,926 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:24:29,926 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:24:30,008 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:24:30,008 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:24:30,008 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:24:30,141 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:24:30,141 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:24:30,141 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:24:30,547 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:24:30,547 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:24:30,547 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:24:30,733 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:24:30,733 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:24:30,733 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:24:30,895 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:24:30,895 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:24:30,895 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:24:31,053 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:24:31,053 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:24:31,053 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:24:31,420 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:24:31,420 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:24:31,420 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:24:31,653 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:24:31,653 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:24:31,653 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:24:31,775 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:24:31,775 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:24:31,775 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:24:31,825 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:24:31,825 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:24:31,825 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:24:31,839 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:24:31,839 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:24:31,839 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:24:31,839 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:24:31,839 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:24:31,839 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:25:08,168 - Utilities.Logs - INFO - Execution of Test case User Sign Up started
+2023-02-10 21:25:08,169 - Utilities.Logs - INFO - SignUp class object created successfully
+2023-02-10 21:25:08,252 - Utilities.Logs - INFO - SignUp link clicked successfully
+2023-02-10 21:25:09,241 - Utilities.Logs - INFO - User entered Pardeep Kumar in Name input field
+2023-02-10 21:25:09,348 - Utilities.Logs - INFO - User entered test6@test.com in Email input field
+2023-02-10 21:25:09,436 - Utilities.Logs - INFO - User entered Test!123 in Password input field
+2023-02-10 21:25:09,538 - Utilities.Logs - INFO - User Chosed DevOps,Testing in Interest successfully
+2023-02-10 21:25:09,563 - Utilities.Logs - INFO - User Chosed Male in Gender successfully
+2023-02-10 21:25:09,649 - Utilities.Logs - INFO - User selected Himachal Pradesh state successfully
+2023-02-10 21:25:09,676 - Utilities.Logs - INFO - User clicked sign up button successfully
+2023-02-10 21:25:22,977 - Utilities.Logs - INFO - Execution of Test case User Login started
+2023-02-10 21:25:22,977 - Utilities.Logs - INFO - Execution of Test case User Login started
+2023-02-10 21:25:24,292 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:25:24,292 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:25:24,292 - Utilities.Logs - INFO - Execution of Test case User Login Successfuly completed
+2023-02-10 21:25:24,292 - Utilities.Logs - INFO - Execution of Test case User Login Successfuly completed
+2023-02-10 21:25:33,311 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:25:33,311 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:25:33,311 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:25:33,311 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:25:33,311 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:25:33,311 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:25:35,020 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:25:35,020 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:25:35,020 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:25:35,020 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:25:35,020 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:25:35,020 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:25:36,668 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:25:36,668 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:25:36,668 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:25:36,785 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:25:36,785 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:25:36,785 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:25:36,852 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:25:36,852 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:25:36,852 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:25:37,078 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:25:37,078 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:25:37,078 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:25:37,309 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:25:37,309 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:25:37,309 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:44:44,157 - Utilities.Logs - INFO - Execution of Test case User Sign Up started
+2023-02-10 21:44:44,158 - Utilities.Logs - INFO - SignUp class object created successfully
+2023-02-10 21:44:44,249 - Utilities.Logs - INFO - SignUp link clicked successfully
+2023-02-10 21:45:07,650 - Utilities.Logs - INFO - Execution of Test case User Login started
+2023-02-10 21:45:07,650 - Utilities.Logs - INFO - Execution of Test case User Login started
+2023-02-10 21:45:18,138 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:45:18,138 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:45:18,138 - Utilities.Logs - INFO - Execution of Test case User Login Successfuly completed
+2023-02-10 21:45:18,138 - Utilities.Logs - INFO - Execution of Test case User Login Successfuly completed
+2023-02-10 21:45:26,429 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:45:26,429 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:45:26,429 - Utilities.Logs - INFO - Execution of Test case Add Course started
+2023-02-10 21:45:26,429 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:45:26,429 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:45:26,429 - Utilities.Logs - INFO - login class object created successfully
+2023-02-10 21:45:30,347 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:45:30,347 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:45:30,347 - Utilities.Logs - INFO - User ineuron@ineuron.ai logged in successfully
+2023-02-10 21:45:30,347 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:45:30,347 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:45:30,347 - Utilities.Logs - INFO - AddNewCourse class object created successfully
+2023-02-10 21:45:33,706 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:45:33,706 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:45:33,706 - Utilities.Logs - INFO - User clicked on ManageCourse module successfully
+2023-02-10 21:45:33,798 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:45:33,798 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:45:33,798 - Utilities.Logs - INFO - User clicked on Add New Course Button successfully
+2023-02-10 21:45:33,872 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:45:33,872 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:45:33,872 - Utilities.Logs - INFO - User uploaded image file Successfully
+2023-02-10 21:45:34,094 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:45:34,094 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:45:34,094 - Utilities.Logs - INFO - User enters Test Course in Course Name input Field successfully
+2023-02-10 21:45:34,281 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:45:34,281 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:45:34,281 - Utilities.Logs - INFO - User enters Test Course Description in Course Description input Field successfully
+2023-02-10 21:45:34,440 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:45:34,440 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:45:34,440 - Utilities.Logs - INFO - User enters P in Instructor input Field successfully
+2023-02-10 21:45:34,552 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:45:34,552 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:45:34,552 - Utilities.Logs - INFO - User enters 10000 in Course Description input Field successfully
+2023-02-10 21:45:34,898 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:45:34,898 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:45:34,898 - Utilities.Logs - INFO - User selected 2023-02-11 in Start Date Field successfully
+2023-02-10 21:45:35,215 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:45:35,215 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:45:35,215 - Utilities.Logs - INFO - User selected 2023-04-11 in End Date Field successfully
+2023-02-10 21:45:35,357 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:45:35,357 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:45:35,357 - Utilities.Logs - INFO - User selected DevOps Course successfully
+2023-02-10 21:45:35,412 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:45:35,412 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:45:35,412 - Utilities.Logs - INFO - User clicked Saved successfully
+2023-02-10 21:45:35,425 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:45:35,425 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:45:35,425 - Utilities.Logs - INFO - Course Test Course addition validated successfully
+2023-02-10 21:45:35,425 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:45:35,425 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully
+2023-02-10 21:45:35,425 - Utilities.Logs - INFO -  Test Case Add Course executed Successfully

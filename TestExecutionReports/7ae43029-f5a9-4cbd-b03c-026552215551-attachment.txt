@@ -1,0 +1,7 @@
+[32mINFO    [0m WDM:logger.py:16 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:16 Current google-chrome version is 109.0.5414
+[32mINFO    [0m WDM:logger.py:16 Get LATEST chromedriver version for 109.0.5414 google-chrome
+[32mINFO    [0m WDM:logger.py:16 Driver [C:\Users\Pradeep\.wdm\drivers\chromedriver\win32\109.0.5414.74\chromedriver.exe] found in cache
+[32mINFO    [0m Utilities.Logs:test_signUpPage.py:33 Execution of Test case User Sign Up started
+[32mINFO    [0m Utilities.Logs:test_signUpPage.py:36 SignUp class object created successfully
+[32mINFO    [0m Utilities.Logs:test_signUpPage.py:39 SignUp link clicked successfully
